@@ -34,7 +34,7 @@ The frequency dynamics is modeled using the power balance equation:
 - MATLAB
 - Simulink
 
-## Jesus Adolfo Rossi
+Jesus Adolfo Rossi
 
-Project developed by [tuo nome]
+
 
