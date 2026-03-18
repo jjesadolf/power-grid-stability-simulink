@@ -37,7 +37,6 @@ The frequency dynamics is modeled using the power balance equation:
 Jesus Adolfo Rossi
 
 ## Observations
-Here is your text translated into clear, technical English suitable for a thesis:
 
 ---
 
